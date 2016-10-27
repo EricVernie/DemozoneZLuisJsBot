@@ -1,0 +1,23 @@
+{
+  "name": "demozonezluisjsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",  
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricVernie/DemozoneZLuisJsBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricVernie/DemozoneZLuisJsBot/issues"
+  },
+  "homepage": "https://github.com/EricVernie/DemozoneZLuisJsBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.3.3",
+    "restify": "^4.2.0"
+  }
+}
